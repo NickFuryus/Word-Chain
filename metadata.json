@@ -1,0 +1,6 @@
+{
+  "name": "Word Chain: Skyline Builder",
+  "description": "A fast-paced word-chaining puzzle game. Connect words letter-by-letter to build a soaring skyscraper skyline!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
