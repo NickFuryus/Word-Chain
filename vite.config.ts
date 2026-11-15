@@ -8,7 +8,7 @@ export default defineConfig(({ command }) => {
     process.env.NODE_ENV = 'production';
   }
   return {
-    base: './',
+    base: '/Word-Chain/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
